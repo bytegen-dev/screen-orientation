@@ -24,7 +24,7 @@ body{
 }
 
 .circle{
-    scale: 0.9;
+    scale: 0.5;
     position: relative;
     width: 200px;
     height: 200px;
